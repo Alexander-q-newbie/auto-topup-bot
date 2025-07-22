@@ -1,0 +1,12 @@
+[
+    { "label": "0", "price": "RM0", "callback": "mlbb:0", "supplierCommand": "0" },
+  { "label": "86", "price": "RM5.10", "callback": "mlbb:86", "supplierCommand": "86" },
+  { "label": "172", "price": "RM10.00", "callback": "mlbb:172", "supplierCommand": "172" },
+  { "label": "257", "price": "RM14.40", "callback": "mlbb:257", "supplierCommand": "257" },
+  { "label": "706", "price": "RM39.50", "callback": "mlbb:706", "supplierCommand": "706" },
+  { "label": "2195", "price": "RM120.00", "callback": "mlbb:2195", "supplierCommand": "2195" },
+  { "label": "3688", "price": "RM199.50", "callback": "mlbb:3688", "supplierCommand": "3688" },
+  { "label": "5532", "price": "RM299.00", "callback": "mlbb:5532", "supplierCommand": "5532" },
+  { "label": "9288", "price": "RM495.00", "callback": "mlbb:9288", "supplierCommand": "9288" },
+  { "label": "Wdp Global", "price": "RM6.20", "callback": "mlbb:Weekly", "supplierCommand": "Weekly" }
+]
