@@ -153,11 +153,7 @@ function registerDenomActions(gameKey) {
   const gameLabel = gameData?.label || gameKey;  // Fallback to gameKey if label missing
 
   denomList.forEach(item => {
-<<<<<<< HEAD
-    bot.action(item.callback, (ctx) => {
-=======
     bot.action(item.callback, async (ctx) => {
->>>>>>> 59d907276d6c043ad4ae12d153006778cef0c3a7
       const userId = ctx.from.id;
       userSession[userId] = {
         step: 'awaiting_id',
@@ -166,12 +162,6 @@ function registerDenomActions(gameKey) {
         gameCallback: gameKey
       };
 
-<<<<<<< HEAD
-      ctx.editMessageText(
-        `📝 Order: ${item.label} 💎\n💰 Price: ${item.price}\n\nPlease enter your <b>User ID</b> and <b>Server ID</b> (e.g., <code>674732644 3433</code>)`,
-        { parse_mode: "HTML" }
-      );
-=======
      try {
         await ctx.editMessageText(
           `📝 Order: ${item.label} 💎\n💰 Price: ${item.price}\n\nPlease enter your <b>User ID</b> and <b>Server ID</b> (e.g., <code>674732644 3433</code>)`,
@@ -184,7 +174,6 @@ function registerDenomActions(gameKey) {
           console.error("editMessageText error:", err);
         }
       }
->>>>>>> 59d907276d6c043ad4ae12d153006778cef0c3a7
     });
   });
 }
@@ -255,11 +244,7 @@ function showMainMenu(ctx) {
         [Markup.button.callback("🎮 Via Login", 'login')],
         [Markup.button.callback("📜 Terms & Conditions", 'tnc')],
         [Markup.button.callback("🌐 Social Media Q Store", 'socmed')],
-<<<<<<< HEAD
         [Markup.button.url("🛠️ Improvements / Suggestions", 'https://t.me/ItsAlexanderQ')]
-=======
-        [Markup.button.url("🛠️ Req", 'https://t.me/ItsAlexanderQ')]
->>>>>>> 59d907276d6c043ad4ae12d153006778cef0c3a7
       ])
     }
   );

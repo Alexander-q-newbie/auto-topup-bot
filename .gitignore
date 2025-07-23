@@ -23,10 +23,6 @@ venv/
 *.env
 
 # === PROJECT DATA ===
-<<<<<<< HEAD
-=======
-orders.json
->>>>>>> 59d907276d6c043ad4ae12d153006778cef0c3a7
 *.sqlite
 *.db
 *.sqlite3
@@ -43,9 +39,3 @@ Thumbs.db
 # === OPTIONAL ===
 # Ignore VSCode settings
 .vscode/
-<<<<<<< HEAD
-=======
-
-# Ignore assets (QR codes, images) if they're private/generated
-assets/
->>>>>>> 59d907276d6c043ad4ae12d153006778cef0c3a7
