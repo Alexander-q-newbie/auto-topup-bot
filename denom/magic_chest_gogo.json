@@ -1,0 +1,14 @@
+[
+  { "label": "5", "price": "RM0.37", "callback": "mlbb:5", "supplierCommand": "5" },
+  { "label": "11", "price": "RM0.75", "callback": "mlbb:11", "supplierCommand": "11" },
+  { "label": "22", "price": "RM1.47", "callback": "mlbb:22", "supplierCommand": "22" },
+  { "label": "56", "price": "RM3.74", "callback": "mlbb:56", "supplierCommand": "56" },
+  { "label": "112", "price": "RM7.42", "callback": "mlbb:112", "supplierCommand": "112" },
+  { "label": "223", "price": "RM14.88", "callback": "mlbb:223", "supplierCommand": "223" },
+  { "label": "336", "price": "RM22.29", "callback": "mlbb:336", "supplierCommand": "336" },
+  { "label": "570", "price": "RM37.19", "callback": "mlbb:570", "supplierCommand": "570" },
+  { "label": "1163", "price": "RM74.40", "callback": "mlbb:1163", "supplierCommand": "1163" },
+  { "label": "2398", "price": "RM148.60", "callback": "mlbb:2398", "supplierCommand": "2398" },
+  { "label": "6042", "price": "RM372.67", "callback": "mlbb:6042", "supplierCommand": "6042" },
+  { "label": "Weekly Card", "price": "RM8", "callback": "mlbb:Weekly_Card", "supplierCommand": "Weekly_Card" }
+]

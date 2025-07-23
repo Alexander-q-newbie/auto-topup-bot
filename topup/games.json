@@ -1,0 +1,5 @@
+[
+  { "label": "Mobile Legends Global", "callback": "mlbb" },
+  { "label": "Mobile Legends MY", "callback": "mlbb_special" },
+  { "label": "Magic Chest GoGo", "callback": "magic_chest_gogo" }
+]

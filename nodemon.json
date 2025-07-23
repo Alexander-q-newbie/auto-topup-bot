@@ -1,0 +1,9 @@
+{
+  "ignore": [
+    "agreements.json",
+    "orders.json",
+    "logs/",
+    "data/",
+    "topup/games.json"
+  ]
+}

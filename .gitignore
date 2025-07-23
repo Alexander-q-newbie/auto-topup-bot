@@ -1,0 +1,41 @@
+# === NODE.JS / TELEGRAM BOT ===
+node_modules/
+.env
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+
+# === PYTHON / FASTAPI ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+venv/
+.env
+*.env
+
+# === PROJECT DATA ===
+*.sqlite
+*.db
+*.sqlite3
+*.lock
+
+# === USERBOT SESSION FILE ===
+*.session
+*.session-journal
+
+# === SYSTEM FILES ===
+.DS_Store
+Thumbs.db
+
+# === OPTIONAL ===
+# Ignore VSCode settings
+.vscode/
