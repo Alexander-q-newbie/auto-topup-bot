@@ -3,15 +3,26 @@
   { "label": "14", "price": "RM1.00", "callback": "mlbb_special:14", "supplierCommand": "14" },
   { "label": "28", "price": "RM2.00", "callback": "mlbb_special:28", "supplierCommand": "28" },
   { "label": "42", "price": "RM3.00", "callback": "mlbb_special:42", "supplierCommand": "42" },
+<<<<<<< HEAD
   { "label": "55 (1st Time 50 + 50)", "price": "RM3.80", "callback": "mlbb_special:55", "supplierCommand": "55" },
+=======
+  { "label": "55 (1st 50 + 50)", "price": "RM3.80", "callback": "mlbb_special:55", "supplierCommand": "55" },
+>>>>>>> 59d907276d6c043ad4ae12d153006778cef0c3a7
   { "label": "56", "price": "RM3.90", "callback": "mlbb_special:56", "supplierCommand": "56" },
   { "label": "70", "price": "RM4.90", "callback": "mlbb_special:70", "supplierCommand": "70" },
   { "label": "84", "price": "RM5.90", "callback": "mlbb_special:84", "supplierCommand": "84" },
   { "label": "140", "price": "RM11.30", "callback": "mlbb_special:140", "supplierCommand": "140" },
+<<<<<<< HEAD
   { "label": "165 (1st Time 150 + 150)", "price": "RM11.80", "callback": "mlbb_special:165", "supplierCommand": "165" },
   { "label": "182", "price": "RM12.80", "callback": "mlbb_special:182", "supplierCommand": "182" },
   { "label": "210", "price": "RM14.80", "callback": "mlbb_special:210", "supplierCommand": "210" },
   { "label": "275 (1st Time 250 + 250)", "price": "RM19.20", "callback": "mlbb_special:275", "supplierCommand": "275" },
+=======
+  { "label": "165 (1st 150 + 150)", "price": "RM11.80", "callback": "mlbb_special:165", "supplierCommand": "165" },
+  { "label": "182", "price": "RM12.80", "callback": "mlbb_special:182", "supplierCommand": "182" },
+  { "label": "210", "price": "RM14.80", "callback": "mlbb_special:210", "supplierCommand": "210" },
+  { "label": "275 (1st 250 + 250)", "price": "RM19.20", "callback": "mlbb_special:275", "supplierCommand": "275" },
+>>>>>>> 59d907276d6c043ad4ae12d153006778cef0c3a7
   { "label": "284", "price": "RM19.90", "callback": "mlbb_special:284", "supplierCommand": "284" },
   { "label": "326", "price": "RM22.70", "callback": "mlbb_special:326", "supplierCommand": "326" },
   { "label": "355", "price": "RM24.70", "callback": "mlbb_special:355", "supplierCommand": "355" },
@@ -19,13 +30,21 @@
   { "label": "429", "price": "RM29.70", "callback": "mlbb_special:429", "supplierCommand": "429" },
   { "label": "443", "price": "RM30.70", "callback": "mlbb_special:443", "supplierCommand": "443" },
   { "label": "513", "price": "RM35.50", "callback": "mlbb_special:513", "supplierCommand": "513" },
+<<<<<<< HEAD
   { "label": "565 (1st Time 500 + 500)", "price": "RM38.50", "callback": "mlbb_special:565", "supplierCommand": "565" },
+=======
+  { "label": "565 (1st 500 + 500)", "price": "RM38.50", "callback": "mlbb_special:565", "supplierCommand": "565" },
+>>>>>>> 59d907276d6c043ad4ae12d153006778cef0c3a7
   { "label": "569", "price": "RM39.50", "callback": "mlbb_special:569", "supplierCommand": "569" },
   { "label": "583", "price": "RM40.50", "callback": "mlbb_special:583", "supplierCommand": "583" },
   { "label": "639", "price": "RM43.80", "callback": "mlbb_special:639", "supplierCommand": "639" },
   { "label": "716", "price": "RM48.50", "callback": "mlbb_special:716", "supplierCommand": "716" },
   { "label": "772", "price": "RM52.50", "callback": "mlbb_special:772", "supplierCommand": "772" },
   { "label": "870", "price": "RM60.10", "callback": "mlbb_special:870", "supplierCommand": "870" },
+<<<<<<< HEAD
+=======
+  { "label": "1446", "price": "RM97.10", "callback": "mlbb_special:1446", "supplierCommand": "1446" },
+>>>>>>> 59d907276d6c043ad4ae12d153006778cef0c3a7
   { "label": "2015", "price": "RM137.90", "callback": "mlbb_special:2015", "supplierCommand": "2015" },
   { "label": "2162", "price": "RM147.80", "callback": "mlbb_special:2162", "supplierCommand": "2162" },
   { "label": "2302", "price": "RM157.90", "callback": "mlbb_special:2302", "supplierCommand": "2302" },
